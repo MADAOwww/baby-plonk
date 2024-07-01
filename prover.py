@@ -249,7 +249,7 @@ class Prover:
             + QC_coeff
         )
            
-        )
+        
 
         normal_roots = Polynomial(
             roots_of_unity, Basis.LAGRANGE
